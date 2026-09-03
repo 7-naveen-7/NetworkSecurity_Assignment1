@@ -1,4 +1,4 @@
-# Phase 2 README
+# Phase 2
 
 ## Description
 
