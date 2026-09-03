@@ -1,4 +1,4 @@
-Phase3_README
+# Phase 3
 
 In this Phase, we use OpenSSL libraries to create our own Cert Authority, a private key and a self-signed root certificate, generate a key pair for server, create a CSR and have our own CA sign to produce a server certificate, basically performing server authentication via PKI. Server sends certificate to client before any DH key exchange happens.
 
